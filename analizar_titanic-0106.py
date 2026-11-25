@@ -1,3 +1,5 @@
+## Samuel Nicola NC 0106
+
 # ==========================================
 # CASO 1: IDENTIFICACIÓN DE PROBLEMAS
 # DATASET: TITANIC

@@ -1,3 +1,5 @@
+## Samuel Nicola NC 0106
+
 ## | 🚨 Problema | 📝 Descripción | 💡 Ejemplo |
 | :--- | :--- | :--- |
 | **Datos nulos** | Información que no está registrada o es desconocida. | El campo "Edad" está vacío. |
