@@ -26,4 +26,4 @@
 ## Registrados Duplicados
 ![alt text](image-5.png)
 ##  VALORES ATÍPICOS EN 'AGE'
-![alt text](image-6.png)
+![alt text](image-10.png)
